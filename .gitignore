@@ -1,0 +1,8 @@
+elm-stuff/
+node_modules/
+tmp/
+dist/
+
+*.log
+.DS_Store
+yarn.lock
