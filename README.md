@@ -3,7 +3,7 @@
 Simple frontend application that demonstrates how TEA works.
 It gets random jokes from the Chuck Norris database.
 
-![Mockup](https://imgur.com/a/PBEtI)
+![Mockup](randomizer.png)
 
 ### Install:
 Clone this repo:
