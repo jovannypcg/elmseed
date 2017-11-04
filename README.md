@@ -1,15 +1,14 @@
 # Randomizer
 
 Simple frontend application that demonstrates how TEA works.
-Its functionality includes generation of random strings, showing gifs using a
-public API and random jokes from the Chuck Norris database.
+It gets random jokes from the Chuck Norris database.
 
-![Mockup](https://s26.postimg.org/srld23h95/randomizer.png)
+![Mockup](https://imgur.com/a/PBEtI)
 
 ### Install:
 Clone this repo:
 ```
-git clone https://github.com/jovannypcg/randomizer.git
+git clone https://github.com/jovannypcg/elmseed.git randomizer
 cd randomizer
 ```
 
