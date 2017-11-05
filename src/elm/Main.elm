@@ -37,11 +37,6 @@ type alias Model =
     { jokes : List String }
 
 
-model : Model
-model =
-    Model []
-
-
 init : ( Model, Cmd Msg )
 init =
     ( Model [], Cmd.none )
